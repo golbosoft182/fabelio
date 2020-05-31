@@ -29,7 +29,6 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/labjs/2.0.3/LAB.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/css/uikit.min.css" />
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.18/datatables.min.css" />
-	<link rel="icon" href="http://i.imgur.com/I6Udqo8.png" sizes="any" type="image/png">
 	<meta name="author" content="ekahandik">
     <meta name="keywords" content="Fabelio">
     <meta name="description" content="A web application to monitor products' prices in Fabelio">
